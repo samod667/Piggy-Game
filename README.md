@@ -1,5 +1,7 @@
 # Piggy-Game
 
+LIVE DEMO: https://samod667.github.io/Piggy-Game/ 
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds
