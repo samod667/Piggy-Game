@@ -1,5 +1,6 @@
 <h1>Piggy Game</h1>
 
+![img-1](img/img1)
 <a href="https://samod667.github.io/Piggy-Game/"><h2>Live Demo</h2></a> 
 
 <h4>Game Rules</h4>
